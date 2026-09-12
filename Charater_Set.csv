@@ -1,0 +1,125 @@
+SNO,Name,House,Role,Notable Traits,Birthdate,Blood Status,Patronus,Wand Core
+1,Harry Potter,Gryffindor,Main Protagonist,"Courageous, Loyal","July 31, 1980",Half-Blood,Stag,"Holly, 11"""
+2,Hermione Granger,Gryffindor,Main Protagonist,"Intelligent, Brave","September 19, 1979",Muggle-born,Otter,"Vine, 10¾"""
+3,Ron Weasley,Gryffindor,Main Protagonist,"Loyal, Funny","March 1, 1980",Pure-blood,Jack Russell Terrier,"Willow, 14"""
+4,Draco Malfoy,Slytherin,Antagonist,"Ambitious, Proud, Arrogant","June 5, 1980",Pure-blood,Unknown,"Elm, 10"""
+5,Albus Dumbledore,Gryffindor,Headmaster,"Wise, Kind, Compassionate",1881,Half-blood,Phoenix,"Elder, 15"""
+6,Severus Snape,Slytherin,Potions Master,"Reserved, Loyal, Complex","January 9, 1960",Half-blood,Doe,"Holly, 13½"""
+7,Minerva McGonagall,Gryffindor,Transfiguration Professor,"Stern, Fair, Powerful","October 4, 1935",Muggle-born,Tabby Cat,"Fir, 9½"""
+8,Neville Longbottom,Gryffindor,Gryffindor Student,"Brave, Clumsy","July 30, 1980",Pure-blood,Unknown,"Cherry, 13"""
+9,Luna Lovegood,Ravenclaw,"Student, Supportive Friend","Eccentric, Intelligent, Kind","February 13, 1981",Half-blood,Hare,Unknown
+10,Ginny Weasley,Gryffindor,"Student, Later Protagonist","Brave, Fierce","August 11, 1981",Pure-blood,Horse,Unknown
+11,Cedric Diggory,Hufflepuff,"Champion, Student","Kind, Honorable","September 1, 1977",Pure-blood,Unknown,"Yew, 12½"""
+12,Bellatrix Lestrange,Slytherin,Death Eater,"Fanatic, Cruel, Cunning",1951-10-01 00:00:00,Pure-blood,Unknown,Unknown
+13,Sirius Black,Gryffindor,"Rebel, Animagus","Loyal, Reckless, Brave","November 3, 1959",Pure-blood,Black Dog,"Black Walnut, 12"""
+14,Remus Lupin,Gryffindor,"Werewolf, Teacher","Kind, Noble, Intelligent","March 10, 1960",Half-blood,Wolf,"Mahogany, 10¾"""
+15,Arthur Weasley,Weasley (Gryffindor),Ministry Employee,"Curious, Loving, Inventive","February 6, 1950",Pure-blood,Unknown,Unknown
+16,Molly Weasley,Weasley (Gryffindor),"Matriarch, Homemaker","Caring, Protective","October 30, 1949",Pure-blood,Unknown,Unknown
+17,Tom Riddle (Voldemort),Slytherin,"Dark Lord, Antagonist","Power-hungry, Manipulative","December 31, 1926",Half-blood,Snake,"Yew, 13½"""
+18,Hagrid,Gryffindor,Keeper of Keys and Grounds,"Gentle, Loyal, Kind-hearted","December 6, 1928","Half-giant, Half-blood",Unknown,Unknown
+19,Horace Slughorn,Slytherin,Potions Master,"Ambitious, Charismatic","April 28, 1882",Pure-blood,Unknown,Unknown
+20,Fawkes,,Phoenix (Magical Creature),"Loyal, Powerful, Rebirth",Unknown,,Phoenix,Unknown
+21,Peter Pettigrew,Gryffindor,"Animagus, Traitor","Cowardly, Deceitful","March 20, 1960",Pure-blood,Unknown,Unknown
+22,Narcissa Malfoy,Slytherin,"Mother, Pure-blood","Protective, Elegant",1955-05-01 00:00:00,Pure-blood,Unknown,Unknown
+23,Lucius Malfoy,Slytherin,"Death Eater, Father","Proud, Arrogant, Disdainful",1954,Pure-blood,Unknown,Unknown
+24,Andromeda Tonks,Gryffindor,Member of Order of the Phoenix,"Kind, Rebellious",1950,Muggle-born,Unknown,Unknown
+25,Ted Tonks,Gryffindor,"Muggle-born, Order Member","Brave, Kind-hearted",1950,Muggle-born,Unknown,Unknown
+26,Charlie Weasley,Gryffindor,Dragon Keeper,"Adventurous, Brave","December 12, 1972",Pure-blood,Unknown,Unknown
+27,Percy Weasley,Gryffindor,Ministry Employee,"Ambitious, Strict","August 22, 1976",Pure-blood,Unknown,Unknown
+28,Fred Weasley,Gryffindor,"Weasley Twin, Prankster","Fun-loving, Brave","April 1, 1978",Pure-blood,Unknown,Unknown
+29,George Weasley,Gryffindor,"Weasley Twin, Prankster","Fun-loving, Loyal","April 1, 1978",Pure-blood,Unknown,Unknown
+30,Bill Weasley,Gryffindor,Curse Breaker,"Brave, Smart, Protective","November 29, 1970",Pure-blood,Unknown,Unknown
+31,Fleur Delacour,Beauxbatons,Triwizard Champion,"Beautiful, Elegant, Brave","September 30, 1977",Half-blood,Vela Patronus,Unknown
+32,Viktor Krum,Durmstrang,Triwizard Champion,"Determined, Focused, Brave","April 26, 1976",Muggle-born,Unknown,Unknown
+33,Aberforth Dumbledore,Gryffindor,"Barman, Brother of Albus","Private, Protective, Loyal",1884,Half-blood,Goat,Unknown
+34,Gilderoy Lockhart,Ravenclaw,Defense Against the Dark Arts Professor,"Charming, Arrogant","November 26, 1964",Pure-blood,Unknown,Unknown
+35,Argus Filch,,Caretaker,"Grumpy, Strict",Unknown,Squib,Unknown,Unknown
+36,Madam Pomfrey,,"Matron, Healer","Compassionate, Strict","October 25, 1935",Muggle-born,Unknown,Unknown
+37,Kingsley Shacklebolt,Gryffindor,"Order Member, Auror","Brave, Strong, Loyal","April 1, 1962",Pure-blood,Lynx,Unknown
+38,Dolores Umbridge,Slytherin,Ministry Official,"Cruel, Power-hungry","August 26, 1951",Half-blood,Unknown,Unknown
+39,Fenrir Greyback,,"Werewolf, Death Eater","Savage, Violent",Unknown,Half-blood,Unknown,Unknown
+40,Nymphadora Tonks,Gryffindor,"Auror, Metamorphmagus","Kind, Quirky, Brave",1973,Half-blood,Patronus - Otter,"Willow, 10½"""
+41,Mad-Eye Moody,Gryffindor,"Auror, Order Member","Paranoid, Brave, Loyal","September 30, 1952",Pure-blood,Unknown,Unknown
+42,Grawp,,Hagrid’s Brother,"Kind-hearted, Giant",Unknown,Half-giant,Unknown,Unknown
+43,Rubeus Hagrid,Gryffindor,"Keeper of Keys, Gamekeeper","Gentle, Loyal, Brave","December 6, 1928",Half-giant,Unknown,Unknown
+44,Regulus Black,Slytherin,Death Eater (formerly),Rebelled against Voldemort,1961,Pure-blood,Unknown,Unknown
+45,Lily Potter,Gryffindor,Mother of Harry Potter,"Loving, Brave, Self-sacrificing","January 30, 1960",Muggle-born,Doe,Unknown
+46,James Potter,Gryffindor,Father of Harry Potter,"Courageous, Loyal, Proud","March 27, 1960",Pure-blood,Stag,Unknown
+47,Rita Skeeter,Ravenclaw,Journalist,"Deceptive, Manipulative","January 7, 1951",Muggle-born,Unknown,Unknown
+48,Cho Chang,Ravenclaw,"Student, Quidditch Player","Kind, Athletic, Sensitive",1979,Muggle-born,Swan,Unknown
+49,Dean Thomas,Gryffindor,"Student, Gryffindor Quidditch Player","Loyal, Brave",1979,Half-blood,Unknown,Unknown
+50,Seamus Finnigan,Gryffindor,"Student, Gryffindor Quidditch Player","Loyal, Brave, Hot-headed",1980,Muggle-born,Unknown,Unknown
+51,Pansy Parkinson,Slytherin,"Student, Bully","Snobbish, Mean-spirited",1979,Pure-blood,Unknown,Unknown
+52,Lavender Brown,Gryffindor,"Student, Love Interest","Dramatic, Emotional",1980,Muggle-born,Unknown,Unknown
+53,Parvati Patil,Gryffindor,"Student, Divination Student","Cheerful, Loyal",1979,Pure-blood,Unknown,Unknown
+54,Padma Patil,Ravenclaw,"Student, Prefect","Intelligent, Loyal",1979,Pure-blood,Unknown,Unknown
+55,Dudley Dursley,,Harry’s Cousin,"Spoiled, Bully, Self-centered","June 23, 1980",Muggle-born,Unknown,Unknown
+56,Vernon Dursley,,Harry’s Uncle,"Aggressive, Unkind, Inconsiderate",1950,Muggle-born,Unknown,Unknown
+57,Merope Gaunt,Slytherin,Mother of Voldemort,"Tragic, Abused, Manipulative",Unknown,Pure-blood,Unknown,Unknown
+58,Salazar Slytherin,Slytherin,Founder of Slytherin House,"Ambitious, Power-hungry",Unknown,Pure-blood,Unknown,Unknown
+59,Godric Gryffindor,Gryffindor,Founder of Gryffindor House,"Brave, Noble, Kind-hearted",Unknown,Pure-blood,Lion,Unknown
+60,Helga Hufflepuff,Hufflepuff,Founder of Hufflepuff House,"Fair, Loyal, Hard-working",Unknown,Pure-blood,Badger,Unknown
+61,Rowena Ravenclaw,Ravenclaw,Founder of Ravenclaw House,"Intelligent, Wise, Creative",Unknown,Pure-blood,Eagle,Unknown
+62,Newt Scamander,Hufflepuff,"Magizoologist, Author","Kind, Curious, Empathetic","February 24, 1897",Muggle-born,Unknown,Unknown
+63,Theseus Scamander,Hufflepuff,"Auror, Brother of Newt","Brave, Loyal",Unknown,Muggle-born,Unknown,Unknown
+64,Leta Lestrange,Slytherin,Formerly in Love with Newt,"Tragic, Conflicted",1901,Pure-blood,Unknown,Unknown
+65,Gellert Grindelwald,Slytherin,"Dark Wizard, Antagonist","Charismatic, Power-hungry",1883,Pure-blood,Unknown,Unknown
+66,Nagini,,Voldemort’s Snake,"Loyal, Dangerous",Unknown,Unknown,Unknown,Unknown
+67,Myrtle Warren (Moaning Myrtle),,"Ghost, Student","Whiny, Lonely, Sensitive",1928,Muggle-born,Unknown,Unknown
+68,The Grey Lady (Helena Ravenclaw),Ravenclaw,"Ghost, Daughter of Rowena","Wise, Sorrowful",1000s,Pure-blood,Unknown,Unknown
+69,Nearly Headless Nick,Gryffindor,"Ghost, Gryffindor House","Humorous, Kind, Gentle",1300s,Muggle-born,Unknown,Unknown
+70,Fat Friar,Hufflepuff,"Ghost, Hufflepuff House","Jolly, Kind-hearted, Loyal",10th Century,Muggle-born,Unknown,Unknown
+71,The Bloody Baron,Slytherin,"Ghost, Slytherin House","Brooding, Tragic, Mournful",15th Century,Pure-blood,Unknown,Unknown
+72,Sir Nicholas de Mimsy-Porpington (Nearly Headless Nick),Gryffindor,Ghost,"Kind, Humorous, Loyal",1300s,Muggle-born,Unknown,Unknown
+73,Poppy Pomfrey,,"Matron, Healer","Compassionate, Stern","October 25, 1935",Muggle-born,Unknown,Unknown
+74,Xenophilius Lovegood,Ravenclaw,Editor of The Quibbler,"Eccentric, Kind-hearted",Unknown,Muggle-born,Unknown,Unknown
+75,Mungus Fletcher,Gryffindor,"Auror, Member of the Order","Disloyal, Sneaky",1950s,Muggle-born,Unknown,Unknown
+76,Griphook,,"Goblin, Gringotts","Shrewd, Greedy, Intelligent",Unknown,Unknown,Unknown,Unknown
+77,Madam Pince,,Librarian,"Stern, Strict",Unknown,Unknown,Unknown,Unknown
+78,Barty Crouch Jr.,Slytherin,Death Eater,"Cruel, Fanatical, Deceptive","October 15, 1962",Pure-blood,Unknown,Unknown
+79,Blaise Zabini,Slytherin,"Student, Ally of Draco","Confident, Ambitious, Aloof",1980s,Pure-blood,Unknown,Unknown
+80,Theodore Nott,Slytherin,"Student, Rival","Quiet, Ambitious, Snide",1980s,Pure-blood,Unknown,Unknown
+81,Millicent Bulstrode,Slytherin,"Student, Rival","Strong, Competitive, Arrogant",1980s,Pure-blood,Unknown,Unknown
+82,Gregory Goyle,Slytherin,"Student, Minion of Draco","Dumb, Loyal, Bulky",1980s,Pure-blood,Unknown,Unknown
+83,Vincent Crabbe,Slytherin,"Student, Minion of Draco","Dumb, Loyal, Bulky",1980s,Pure-blood,Unknown,Unknown
+84,Astoria Greengrass,Slytherin,Draco's Wife,"Elegant, Kind-hearted",1980s,Pure-blood,Unknown,Unknown
+85,Daphne Greengrass,Slytherin,"Student, Member of Slytherin House","Snobbish, Beautiful",1980s,Pure-blood,Unknown,Unknown
+86,Filius Flitwick,Ravenclaw,Charms Professor,"Small, Kind, Skilled in Charms","October 17, 1953",Half-blood,Unknown,Unknown
+87,Pomona Sprout,Hufflepuff,Herbology Professor,"Strict, Knowledgeable, Brave","October 15, 1942",Pure-blood,Unknown,Unknown
+88,Sybill Trelawney,Ravenclaw,Divination Professor,"Eccentric, Prophetic, Dramatic","May 9, 1960",Half-blood,Unknown,Unknown
+89,Colin Creevey,Gryffindor,"Student, Photographer","Enthusiastic, Admirable","April 10, 1981",Muggle-born,Unknown,Unknown
+90,Dennis Creevey,Gryffindor,"Student, Brother of Colin","Enthusiastic, Loyal",1982,Muggle-born,Unknown,Unknown
+91,Anthony Goldstein,Ravenclaw,Student,"Intelligent, Loyal",1979,Half-blood,Unknown,Unknown
+92,Terry Boot,Ravenclaw,Student,"Intelligent, Loyal",1979,Half-blood,Unknown,Unknown
+93,Michael Corner,Ravenclaw,Student,"Loyal, Kind-hearted",1980,Muggle-born,Unknown,Unknown
+94,Nigel Wolpert,Gryffindor,Student,"Loyal, Brave",1980,Muggle-born,Unknown,Unknown
+95,Romilda Vane,Gryffindor,"Student, Infatuated with Harry","Bold, Ambitious",1980s,Muggle-born,Unknown,Unknown
+96,Lee Jordan,Gryffindor,"Commentator, Friend of Fred and George","Loud, Energetic",1979,Muggle-born,Unknown,Unknown
+97,Katie Bell,Gryffindor,Quidditch Player,"Loyal, Determined",1979,Muggle-born,Unknown,Unknown
+98,Angelina Johnson,Gryffindor,Quidditch Player,"Brave, Determined",1979,Muggle-born,Unknown,Unknown
+99,Alicia Spinnet,Gryffindor,Quidditch Player,"Brave, Determined",1980,Muggle-born,Unknown,Unknown
+100,Cormac McLaggen,Gryffindor,"Quidditch Player, Student","Arrogant, Confident",1980s,Pure-blood,Unknown,Unknown
+101,Crabbe's Father,,"Death Eater, Criminal",Unknown,Unknown,Pure-blood,Unknown,Unknown
+102,Goyle's Father,,"Death Eater, Criminal",Unknown,Unknown,Pure-blood,Unknown,Unknown
+103,Amycus Carrow,Slytherin,"Death Eater, Professor","Cruel, Fanatical",1960s,Pure-blood,Unknown,Unknown
+104,Alecto Carrow,Slytherin,"Death Eater, Professor","Cruel, Fanatical",1960s,Pure-blood,Unknown,Unknown
+105,Rookwood,,"Death Eater, Ministry Official",Loyal to Voldemort,Unknown,Pure-blood,Unknown,Unknown
+106,Igor Karkaroff,Durmstrang,"Former Headmaster, Death Eater","Strict, Power-hungry",1920s,Half-blood,Unknown,Unknown
+107,Tom Riddle (Lord Voldemort),Slytherin,"Dark Lord, Former Student","Dark, Manipulative, Ambitious","December 31, 1926",Half-blood,Unknown,Unknown
+108,Ernie Macmillan,Hufflepuff,Student,"Loyal, Honest, Hardworking",1979,Muggle-born,Unknown,Unknown
+109,Justin Finch-Fletchley,Hufflepuff,Student,"Kind, Curious, Supportive",1980,Muggle-born,Unknown,Unknown
+110,Nearly Headless Nick (Sir Nicholas de Mimsy-Porpington),Gryffindor,Ghost of Gryffindor House,"Polite, Honorable, Humorous",1500s,Pure-blood,Unknown,Unknown
+111,The Fat Friar,Hufflepuff,Ghost of Hufflepuff House,"Kind-hearted, Cheerful, Generous",1000s,Unknown,Unknown,Unknown
+112,Moaning Myrtle,Ravenclaw,Ghost of Girls' Bathroom,"Whiny, Sensitive, Mischievous",1920s,Half-blood,Unknown,Unknown
+113,Peeves,,Poltergeist,"Mischievous, Annoying, Chaos-loving",Unknown,Unknown,Unknown,Unknown
+114,Buckbeak,,"Hippogriff, Hagrid's Pet","Proud, Loyal, Fierce",Unknown,Unknown,Unknown,Unknown
+115,Fluffy,,"Cerberus, Hagrid's Pet","Fierce, Loyal, Protective",Unknown,Unknown,Unknown,Unknown
+116,Aragog,,"Acromantula, Hagrid's Pet","Intelligent, Dangerous, Loyal",Unknown,Unknown,Unknown,Unknown
+117,Crookshanks,,Hermione's Cat,"Intelligent, Mischievous, Loyal",Unknown,Unknown,Unknown,Unknown
+118,Scabbers,,Ron's Pet Rat,"Timid, Untrustworthy (later revealed as Peter Pettigrew)",Unknown,Unknown,Unknown,Unknown
+119,Hedwig,,Harry's Owl,"Loyal, Protective, Intelligent",1991,Unknown,Unknown,Unknown
+120,Hermes,,Percy's Owl,"Loyal, Intelligent",Unknown,Unknown,Unknown,Unknown
+121,Pigwidgeon,,Ron's Owl,"Energetic, Loyal, Mischievous",1995,Unknown,Unknown,Unknown
+122,Hagrid's Half-brother (Grawp),,"Giant, Hagrid's Relative","Large, Innocent, Loyal",Unknown,Unknown,Unknown,Unknown
+123,Cornelius Fudge,,Former Minister for Magic,"Stubborn, Incompetent",1920s,Pure-blood,Unknown,Unknown
+124,Rufus Scrimgeour,,Former Minister for Magic,"Brave, Loyal, Stern",1940s,Pure-blood,Unknown,Unknown
